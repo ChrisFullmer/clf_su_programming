@@ -1,0 +1,2 @@
+$LOAD_PATH << ('C:\\Users\\cfullme\\AppData\\Roaming\\SketchUp\\SketchUp 2014\\SketchUp\\Plugins\\clf_blockly_repo\\')
+load 'C:\\Users\\cfullme\\AppData\\Roaming\\SketchUp\\SketchUp 2014\\SketchUp\\Plugins\\clf_blockly_repo\\clf_blockly_loader.rb'
